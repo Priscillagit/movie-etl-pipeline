@@ -8,8 +8,7 @@ __pycache__/
 venv/
 .env/
 
-# SQLite databases
-*.db
+
 
 # Logs
 *.log
